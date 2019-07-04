@@ -1,1 +1,1 @@
-## This Repo collecting useful python snippet and shell scripts, keep updating.
+## This Repo collecting useful python snippets and shell scripts, keep updating.
